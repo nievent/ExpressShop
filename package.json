@@ -1,0 +1,19 @@
+{
+  "name": "proyect-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "starts": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Nieves Ventura",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
